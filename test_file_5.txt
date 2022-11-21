@@ -1,0 +1,7 @@
+@ IIT MANDI @
+! Programming practicum !
+_ Programming Practicum _
+# Programming #
+^ programming ^
+- hello -
+~ bye ~
