@@ -1,0 +1,12 @@
+<html>
+<head>head</head><br>
+<b>hello world</b><br>
+<title>nice to meet you</title><br><title></title><br>
+<i>today is sunday</i><br>
+<ol>tomorrow is monday</ol><br><ol></ol><br>
+<h3>i am having 10 rupees with me</h3><br>
+<ul>are u having some money</ul><br>
+<li>life is highly uncertain, so dont ask for too much certainty<li>
+<li>hagg shs sjysgs js <li>
+
+</html>

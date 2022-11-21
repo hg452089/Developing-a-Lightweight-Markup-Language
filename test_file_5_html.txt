@@ -1,0 +1,10 @@
+<html>
+<head> IIT MANDI </head><br>
+<title> Programming practicum </title><br>
+<i> Programming Practicum </i><br>
+<h1> Programming </h1><br>
+<h3> programming </h3><br>
+<ol> hello </ol><br>
+<li> bye <li>
+
+</html>
