@@ -14,6 +14,7 @@ Some input syntax, output syntax and their principal role in html output is ment
 In the below table, the symbols other than alphabets are the input symbols that are required to be converted. And the string, which is between a specific symbol will remain unchanged.
 The code is easy to be extended as per the requirements. Just a small modification in the code and the code will be ready for new input format along with old ones.
 
+# Running the code
 To run the code, one should copy the python file that has been provided above. After that, you can create your own input text file keeping all constraints in the mind.
 For constraints, refer to cs_571 report.pdf 
 If you want to add some other constraints then you can also do that. Simply, expand the dicionary and corresponding elif condition.
